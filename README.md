@@ -1,6 +1,6 @@
 # Getting Started (시작하기)
 
-**프로젝트 문서**
+**프로젝트 문서** <br />
 해당 프로젝트의 자세한 문서는 [Notion 페이지](https://dramatic-jasmine-13a.notion.site/12188bd9c3fa801f82cae9da6398be6f)에 정리되어 있습니다.
 
 ```bash
@@ -70,23 +70,23 @@ yarn dev // 로컬 서버 실행
 |  |  |
 |-----------------|-----------------|
 | Javascript    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Javascript" width="100"> |
-| React    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="React" width="100"> |
-| Vite    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Vite" width="100"> |
-| Emotion    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Emotion" width="100"> |
-| Recoil    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Recoil" width="100"> |
-| Vercel    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Recoil" width="100"> |
+| React    |  <img src="https://github.com/user-attachments/assets/e3b49dbb-981b-4804-acf9-012c854a2fd2" alt="React" width="100"> |
+| Vite    |  <img src="https://ko.vite.dev/logo.svg" alt="Vite" width="100"> |
+| Emotion    |  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIe10L8m6JqDfjl_5BFRTz8yHoowQUgW6cA&s" alt="Emotion" width="100"> |
+| Recoil    |  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSii2UcY9fK5WXXPfa2z7urgqOcq63L5SObJQ&s" alt="Recoil" width="100"> |
+| Vercel    |  <img src="https://velog.velcdn.com/images/kgy30002/post/6361baf9-40ff-4edd-8e9b-704eacf7aac5/image.png" alt="Vercel" width="100"> |
 
 <br />
 
 ## 5.2 Back-End
 |  |  |
 |-----------------|-----------------|
-| Java    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Javascript" width="100"> |
-| Spring Boot    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="React" width="100"> |
-| Gradle    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Vite" width="100"> |
-| Amazon S3    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Emotion" width="100"> |
-| Amazon RDS    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Recoil" width="100"> |
-| Koyeb    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Recoil" width="100"> |
+| Java    |  <img src="https://velog.velcdn.com/images/pak4184/post/98ba8b4f-7b89-4d28-8376-0dc8d1be805a/image.png" alt="java" width="100"> |
+| Spring Boot    |  <img src="https://www.rabit.hu/wp-content/uploads/2023/03/spring-boot.png" alt="Spring Boot" width="100"> |
+| Gradle    |  <img src="https://www.hanbit.co.kr/data/editor/20170725150130_krwshuao.png" alt="Vite" width="100"> |
+| Amazon S3    |  <img src="https://blog.kakaocdn.net/dn/barZ7n/btsEZaJP3Bj/EA4iHyMxwQxQYHMwJTLwmK/img.png" alt="Amazon S3" width="100"> |
+| Amazon RDS    |  <img src="https://blog.kakaocdn.net/dn/bC0KH2/btsdGABMEPL/DG2kWGsJywWtVqo2Uv9y5k/img.png" alt="Amazon RDS" width="100"> |
+| Koyeb    |  <img src="https://blog.kakaocdn.net/dn/LXwdu/btsGirpBZGy/UQl1sAlPOA8wzz5NAkaK1K/img.png" alt="Koyeb" width="100"> |
 
 <br />
 
@@ -94,8 +94,8 @@ yarn dev // 로컬 서버 실행
 
 |  |  |
 |-----------------|-----------------|
-| Git / Github    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="Javascript" width="100"> |
-| Notion    |  <img src="https://github.com/user-attachments/assets/4a7d7074-8c71-48b4-8652-7431477669d1" alt="React" width="100"> |
+| Git / Github    |  <img src="https://github.com/user-attachments/assets/483abc38-ed4d-487c-b43a-3963b33430e6" alt="git/github" width="100"> |
+| Notion    |  <img src="https://github.com/user-attachments/assets/34141eb9-deca-416a-a83f-ff9543cc2f9a" alt="Notion" width="100"> |
 
 <br />
 
